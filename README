@@ -1,0 +1,10 @@
+This device is as of yet untested.
+
+Parts:
+amount	Type		
+
+1	Atmega328p
+1	lm7805
+2	l298n
+
+
